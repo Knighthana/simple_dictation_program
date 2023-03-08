@@ -1,0 +1,17 @@
+# Editor temp file
+
+\#*\#
+.#*
+*~
+*.swp
+
+# Linux ELF Stuff
+
+*.o
+*.out
+
+# (Might) Windows stuff
+
+*.obj
+*.exe
+*.lib
