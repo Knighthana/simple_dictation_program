@@ -19,7 +19,7 @@
 |泊松分布|$X\sim P(\lambda)$|$P(X=k)=\frac{\lambda ^k}{k!}e^{-\lambda}, \lambda >0$|$\lambda$|$\lambda$|
 |几何分布|$X\sim Ge(p)$|$P(X=k)=(1-p)^{k-1}p$|$\frac{1}{p}$|$\frac{1-p}{p^2}$
 |超几何分布|$X\sim H(N,n,M)$|$P(X=k)=\frac{C^k_M C^{n-k}_{N-M}}{C^n_N}$| × | × |
-|均匀分布|$X\sim U[a,b]$|$f(x)=\frac{1}{b-a},a<x<b$|$\frac{a+b}{2}$|$\frac{(b-a)^2}{12}$|
+|均匀分布|$X\sim U[a,b]$|$f(x)=\frac{1}{b-a},x>a,x<b$|$\frac{a+b}{2}$|$\frac{(b-a)^2}{12}$|
 |指数分布|$X\sim E(\lambda)$|$f(x)=\lambda e^{-\lambda x},x>0$|$\frac{1}{\lambda}$|$\frac{1}{\lambda ^2}$|
 |正态分布|$X\sim N(\mu ,\sigma ^2)$|$f(x)=\frac{1}{\sqrt{2\pi}\sigma} e^{-\frac{(x-\mu)^2}{2\sigma ^2}}$|$\mu$|$\sigma ^2$|
 |标准正态分布|$X\sim N(0,1)$|$\varphi(x)=\frac{1}{\sqrt{2\pi}}e^{-\frac{x^2}{2}}$|0|1|
