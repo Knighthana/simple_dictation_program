@@ -18,7 +18,7 @@
 |二项分布|$X\sim B(n,p)$|$P(X=k)=C^k_n p^k (1-p)^{n-k}$|$np$|$np(1-p)$|
 |泊松分布|$X\sim P(\lambda)$|$P(X=k)=\frac{\lambda ^k}{k!}e^{-\lambda}, \lambda >0$|$\lambda$|$\lambda$|
 |几何分布|$X\sim Ge(p)$|$P(X=k)=(1-p)^{k-1}p$|$\frac{1}{p}$|$\frac{1-p}{p^2}$
-|超几何分布| |$P(X=k)=\frac{C^k_m C^{n-k}_{n-m}}{C^m_n}$| | |
+|超几何分布|$X\sim H(N,n,M)$|$P(X=k)=\frac{C^k_M C^{n-k}_{N-M}}{C^n_N}$| × | × |
 |均匀分布|$X\sim U[a,b]$|$f(x)=\frac{1}{b-a},a<x<b$|$\frac{a+b}{2}$|$\frac{(b-a)^2}{12}$|
 |指数分布|$X\sim E(\lambda)$|$f(x)=\lambda e^{-\lambda x},x>0$|$\frac{1}{\lambda}$|$\frac{1}{\lambda ^2}$|
 |正态分布|$X\sim N(\mu ,\sigma ^2)$|$f(x)=\frac{1}{\sqrt{2\pi}\sigma} e^{-\frac{(x-\mu)^2}{2\sigma ^2}}$|$\mu$|$\sigma ^2$|
@@ -32,10 +32,17 @@ $Z=\frac{X-\mu}{\sigma}\sim N(0,1)$
 另外，上面表格内均匀分布的概率密度函数与指数分布的概率密度函数的写法是为了方便记忆，
     
 均匀分布的概率密度函数实际上是
-$f(x)=\left \{ \begin{matrix}\frac{1}{b-a},&a<x<b \\ 0,&其他\end{matrix}\right.$
+
+$$
+f(x)=\left \{ \begin{matrix}\frac{1}{b-a},&a<x<b \\ 0,&其他\end{matrix}\right.
+$$
 
 指数分布的概率密度函数实际上是
-$f(x)=\left \{ \begin{matrix} \lambda e^{-\lambda x},&x>0\\ 0,&x\le 0 \end{matrix}\right.$
+
+$$
+f(x)=\left \{ \begin{matrix} \lambda e^{-\lambda x},&x>0\\ 0,&x\le 0 \end{matrix}\right.
+$$
+
 ，且
 $\lambda>0$
 
