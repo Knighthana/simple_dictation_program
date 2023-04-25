@@ -2,9 +2,17 @@
 
 ## 概率论与数理统计的参考公式
 
+-------------------
+
+<br>
+
 **由于GitHub对于markdown中的数学公式渲染存在问题，请访问
 [项目简介](https://knighthana.github.io/external_ref_docs/simple_dictation_program_README.html)
 获取一份正常的README**
+
+<br>
+
+-------------------
 
 注意：请先和自己的课本核对一下，我不保证这里的公式都是正确的，所以最好使用自己的资料进行听写
 
