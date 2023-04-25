@@ -2,17 +2,13 @@
 
 ## 概率论与数理统计的参考公式
 
-**注意：请先和自己的课本核对一下，我不保证这里的公式都是正确的，所以最好使用自己的资料进行听写**
+**由于GitHub对于markdown中的数学公式渲染存在问题，请访问
+[项目简介](https://knighthana.github.io/external_ref_docs/simple_dictation_program_README.html)
+获取一份正常的README**
 
-**注意：请先和自己的课本核对一下，我不保证这里的公式都是正确的，所以最好使用自己的资料进行听写**
-
-**注意：请先和自己的课本核对一下，我不保证这里的公式都是正确的，所以最好使用自己的资料进行听写**
+注意：请先和自己的课本核对一下，我不保证这里的公式都是正确的，所以最好使用自己的资料进行听写
 
 如果你发现了错误，欢迎与我联系指出
-
-由于GitHub对于markdown中的数学公式渲染存在问题，请访问
-[项目简介](https://knighthana.github.io/external_ref_docs/simple_dictation_program_README.html)
-获取一份正常的README
 
 ### 常见随机变量，及其分布律、概率密度函数，其期望，其方差
 
@@ -118,8 +114,6 @@ $\sigma ^2$
 
 相信自己能通过考试的
 
-![概率论与数理统计听写示例](./about/概率论与数理统计示例.PNG)
-
-Knighthana @ https://github.com/Knighthana
+Knighthana[@GitHub](https://github.com/Knighthana)
 
 2023/03/08
