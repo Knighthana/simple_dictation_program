@@ -10,6 +10,10 @@
 
 如果你发现了错误，欢迎与我联系指出
 
+由于GitHub对于markdown中的数学公式渲染存在问题，请访问
+[项目简介](https://knighthana.github.io/external_ref_docs/simple_dictation_program_README.html)
+获取一份正常的README
+
 ### 常见随机变量，及其分布律、概率密度函数，其期望，其方差
 
 |R.V.|写法|分布律或概率密度函数|EX|DX|
